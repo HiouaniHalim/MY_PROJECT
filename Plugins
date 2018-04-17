@@ -1,0 +1,33 @@
+
+
+class ScrolledText(object):
+    def pack(self, fill, expand, padx, pady):
+        pass
+
+
+def INITOPT():
+    return None
+
+
+def MegaWidget():
+    return None
+
+
+class AboutDialog (object):
+    pass
+
+
+def aboutcontact(param):
+    return None
+
+
+def aboutcopyright(param):
+    return None
+
+
+def aboutversion(param):
+    return None
+
+
+def initialise():
+    return None

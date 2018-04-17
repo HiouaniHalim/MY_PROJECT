@@ -1,0 +1,7 @@
+Explanation of button commands in the application :
+
+1) Reset : Delete the input fields
+2) RE-DIR : Rename the folder
+3) DELET-F-T : Remove the Folder
+4) SAVE-DATA : Stokege Data in File
+5) New_Folder : Create New Folder and File by name is Folder = directory and File = TEXT
